@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0200-number-of-islands) |
+| [0219-contains-duplicate-ii](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0219-contains-duplicate-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0692-top-k-frequent-words) |
 ## String
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0219-contains-duplicate-ii) |
 | [0692-top-k-frequent-words](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0692-top-k-frequent-words) |
 ## Trie
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
