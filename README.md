@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0219-contains-duplicate-ii) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/1486-xor-operation-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
