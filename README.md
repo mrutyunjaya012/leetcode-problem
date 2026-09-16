@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0680-valid-palindrome-ii](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0692-top-k-frequent-words) |
 | [1446-consecutive-characters](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/1446-consecutive-characters) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Sliding Window
 |  |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0238-product-of-array-except-self) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
