@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0200-number-of-islands) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0503-next-greater-element-ii) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0680-valid-palindrome-ii](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -119,6 +122,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0503-next-greater-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
