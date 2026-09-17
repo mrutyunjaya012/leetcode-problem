@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0503-next-greater-element-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0692-top-k-frequent-words) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0503-next-greater-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
