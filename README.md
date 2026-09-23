@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0692-top-k-frequent-words) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/2956-find-common-elements-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0692-top-k-frequent-words) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Trie
 |  |
 | ------- |
