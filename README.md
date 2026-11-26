@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0274-h-index) |
 | [0496-next-greater-element-i](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0503-next-greater-element-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0274-h-index) |
 | [0692-top-k-frequent-words](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/1051-height-checker) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/1122-relative-sort-array) |
