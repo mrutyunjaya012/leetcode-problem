@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0274-h-index) |
 | [0496-next-greater-element-i](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0503-next-greater-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0912-sort-an-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0692-top-k-frequent-words) |
 | [1122-relative-sort-array](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0274-h-index) |
+| [0594-longest-harmonious-subsequence](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/1051-height-checker) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0692-top-k-frequent-words) |
 ## Depth-First Search
 |  |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/mrutyunjaya012/leetcode-problem/tree/master/0594-longest-harmonious-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
